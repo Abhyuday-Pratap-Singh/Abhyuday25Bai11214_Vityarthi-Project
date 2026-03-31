@@ -94,7 +94,7 @@ Abhyuday-Pratap-Singh_VITyarthi_Project/
 
 ## Links
 
-- **GitHub Repository:** [github.com/Abhyuday-Pratap-Singh/Abhyuday_VITyarthi_Project](https://github.com/Abhyuday-Pratap-Singh/Abhyuday_VITyarthi_Project)
+- **GitHub Repository:** [github.com/Abhyuday-Pratap-Singh/Abhyuday_VITyarthi_Project](https://github.com/Abhyuday-Pratap-Singh/Abhyuday25Bai11214_Vityarthi-Project.git)
 - **LinkedIn:** [linkedin.com/in/abhyuday-pratap-singh-6b757b380](https://www.linkedin.com/in/abhyuday-pratap-singh-6b757b380)
 - **Kaggle:** [kaggle.com/abhyudayton618](https://www.kaggle.com/abhyudayton618)
 - **Cybercrime Reporting:** [cybercrime.gov.in](https://cybercrime.gov.in) · Helpline: **1930** (24×7, free)
