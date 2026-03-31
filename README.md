@@ -49,17 +49,45 @@ Also wrote a critical reflection on a hypothetical scenario where a student's im
 ## Repository Structure
 
 ```
-Abhyuday_VITyarthi_Project/
+Abhyuday-Pratap-Singh_VITyarthi_Project/
 │
-├── task-4-email-etiquettes/
-│   ├── Email_1.docx               # Extension request to professor
-│   ├── Email_2.docx               # Summer internship interest — Reliance
-│   
+├── README.md
+├── VITyarthi_Master_Project_Report.docx
+├── VITyarthi_Master_Project_Report.pdf
+│
+├── task-1-presentation/
+│   ├── Digital_Literacy.pptx
+│   ├── Digital_Lietracy.pdf
+│   └── Digital_Literacy_Project_Report.docx
+│
+├── task-2-portfolio/
+│   └── Abhyudy-Pratap-Singh/
+│       ├── README.md
+│       ├── AbhyudayPratapSingh_ProjectReport.docx
+│       ├── AbhyudayPratapSingh_ProjectReport.pdf
+│       ├── Screenshot 2026-03-31 002502...
+│       ├── Screenshot 2026-03-31 003006...
+│       └── Screenshot 2026-03-31 003110...
+│
+├── task-3-platforms/
+│   ├── Project_Report.docx
+│   ├── Project_Report.pdf
+│   ├── README.md
+│   └── Screenshots (2026-03-28 & 2026-03-31)
+│
+├── task-4-email-etiquette/
+│   ├── Email_1.docx
+│   ├── Email_1.pdf
+│   ├── Email_2.docx
+│   ├── Email_2.pdf
+│   ├── Poor_Digital_Communication_Report.docx
+│   └── social-media-checklist.md
 │
 └── task-5-cybercrime/
-    ├── phishing-case-study.docx   # Phishing attack stages & consequences
-    ├── prevention-checklist.md    # 10-point Stay Safe Online checklist
-    
+    ├── Casestudy-Digital Literacy.pdf
+    ├── Task5_Cybercrime_Project_Report.docx
+    ├── Task5_Cybercrime_Project_Report.pdf
+    └── prevention-checklist.md
 ```
 
 ---
