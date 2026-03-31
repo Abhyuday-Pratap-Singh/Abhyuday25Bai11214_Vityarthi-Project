@@ -54,12 +54,12 @@ Abhyuday_VITyarthi_Project/
 ├── task-4-email-etiquettes/
 │   ├── Email_1.docx               # Extension request to professor
 │   ├── Email_2.docx               # Summer internship interest — Reliance
-│   └── reflection.md              # Poor digital communication case study
+│   
 │
 └── task-5-cybercrime/
     ├── phishing-case-study.docx   # Phishing attack stages & consequences
     ├── prevention-checklist.md    # 10-point Stay Safe Online checklist
-    └── reflection.md              # Personal reflection — surprises & habit change
+    
 ```
 
 ---
